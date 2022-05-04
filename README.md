@@ -34,7 +34,6 @@ python bot.py
 ## Our Telegram Channel and Group
 
 * [Team SL Bots🇱🇰](https://telegram.dog/SLBotOfficial)
-* [InFoTel Paid Apps](https://telegram.dog/InFoTel14)
 * [TR TECH GUIDE | SL Bots🇱🇰](https://t.me/trtechguide)
 
 
